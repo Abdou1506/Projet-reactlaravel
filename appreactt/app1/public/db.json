@@ -1,0 +1,28 @@
+{
+  "taches": [
+    {
+      "id": 1,
+      "tache": "tache1",
+      "Nom": "Abdou",
+      "etat": "en cour"
+    },
+    {
+      "id": 2,
+      "tache": "tache2",
+      "user": "Abass",
+      "Etat": "en cour"
+    },
+    {
+      "id": 3,
+      "tache": "tache3",
+      "user": "Aby",
+      "etat": "terminer"
+    },
+    {
+      "id": 4,
+      "tache": "tache4",
+      "user": "mya",
+      "etat": "en cour"
+    }
+  ]
+}
